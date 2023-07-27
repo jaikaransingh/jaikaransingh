@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jai-karan-singh-jadaun-52bb9716a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jai-karan-singh-jadaun-52bb9716a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jai-karan-singh-jadaun-52bb9716a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jai-karan-singh-jadaun-52bb9716a/" height="30" width="40" /></a>
 <a href="https://instagram.com/jai_singh_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jai_singh_jadaun" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jaisingh6653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jai karan singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/jaisingh6653/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jai karan singh" height="30" width="40" /></a>
